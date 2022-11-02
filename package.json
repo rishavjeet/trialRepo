@@ -1,0 +1,18 @@
+{
+  "name": "natserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "nodemon publisher.js",
+    "listen": "nodemon listener.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-nats-streaming": "^0.3.2",
+    "nodemon": "^2.0.20"
+  }
+}

@@ -1,0 +1,28 @@
+Top-Navbar
+    Services->Data & Analytics->Next Generation BI & Visualization
+
+
+"Talk to our CX Experts today" button
+\contact-us\sales-inquiries\
+
+
+Industry Section (side Navbar)
+    [all options]
+    Ecommerce->
+    Gamming-> 
+    Travel-tech->
+    Hi-tech->
+    Airlines->
+    Leisure & Hospitality->
+    Cruises->
+    Land transport->
+    Logistics&Cargo->
+    Technology->
+
+Gartner
+    "View Gartner Report" button
+    \rethink-customer-experience\
+
+"Discover more" button  \dei\
+
+Enable a seamless customer experience "Contact us" button
